@@ -8,4 +8,6 @@ taxonomy:
 
 # Basics
 
-Discover the **basic** principles
+Discover the **basic** principles.
+
+COOL
